@@ -103,6 +103,14 @@ Target (1 = heart disease, 0 = no heart disease)
 To uncover clinical insights and build a strong analytical foundation that supports machine-learning models aimed at heart disease prediction.
 This analysis enables stakeholders to better understand cardiovascular risk patterns through data.
 
+🔧 Technologies Used
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
+
 📌 Future Work
 
 Feature engineering & scaling
